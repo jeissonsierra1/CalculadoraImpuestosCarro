@@ -56,29 +56,31 @@ El impuesto se calcula considerando los siguientes factores:
 
   # Instalación y Ejecución
 
-- Clonar el repositorio:
-    git clone https://github.com/jeissonsierra1/CalculadoraImpuestosCarro.git
-    cd calculadora-impuestos-vehiculos
+
+Clonar el repositorio:  
+   ```sh
+   https://github.com/jeissonsierra1/CalculadoraImpuestosCarro.git
+```  
 - Ejecutar la aplicación: Desde un IDE, ejecute la clase Main.java.
 
 # Estructura de Directorios
 
 calculadora-impuestos-vehiculos/
-│
-├── src/
-│   ├── principal/
-│   │   └── Main.java
-│   │
-│   ├── modelo/
-│   │   └── ImpuestosModelo.java
-│   │
-│   ├── vista/
-│   │   └── ImpuestosVista.java
-│   │
-│   └── controlador/
-│       └── ImpuestosControlador.java
-│
-└── README.md
+- │
+- ├── src/
+- │   ├── principal/
+- │   │   └── Main.java
+- │   │
+- │   ├── modelo/
+- │   │   └── ImpuestosModelo.java
+- │   │
+- │   ├── vista/
+- │   │   └── ImpuestosVista.java
+- │   │
+- │   └── controlador/
+- │       └── ImpuestosControlador.java
+- │
+- └── README.md
 
 # Uso de la Aplicación
 1. Complete los campos solicitados en la interfaz:
