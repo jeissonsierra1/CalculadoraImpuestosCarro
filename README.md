@@ -6,9 +6,9 @@ La aplicación implementa el patrón de diseño Modelo-Vista-Controlador (MVC) p
 # Características
 
 - Cálculo Automático: Determina el impuesto basado en factores como el avalúo comercial, año de fabricación, cilindraje y tipo de uso del vehículo.
-- Interfaz Gráfica Intuitiva: Diseñada con Java Swing para facilitar la entrada de datos y visualización de resultados.
-- Tarifas Actualizadas: Incorpora las tasas vigentes según las regulaciones actuales.
-- Procesamiento de Descuentos: Aplica automáticamente descuentos por antigüedad y tipo de uso.
+- Interfaz Gráfica: Diseñada con Java Swing para facilitar la entrada de datos y visualización de resultados.
+- Tarifas: Incorpora las tasas vigentes según las regulaciones actuales.
+- Descuentos: Aplica automáticamente descuentos por antiguedad y tipo de uso.
 
 # Estructura del Proyecto (MVC)
 
