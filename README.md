@@ -48,7 +48,7 @@ El impuesto se calcula considerando los siguientes factores:
 
 # Cilindraje:
 
-- Vehículos con cilindraje superior a 2000cc: Incremento de 500 unidades monetarias
+- Vehículos con cilindraje superior a 2000cc: Incremento.
 
   # Requisitos
 
