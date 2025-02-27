@@ -1,7 +1,7 @@
 # Descripción del Proyecto
-La Calculadora de Impuestos para Vehículos es una aplicación de escritorio desarrollada en Java que permite a los usuarios calcular el valor de los impuestos de sus vehículos antes de realizar el pago correspondiente. Esta herramienta facilita tanto a propietarios particulares como a empresas recaudadoras obtener información precisa sobre la liquidación de impuestos vehiculares.
+La Calculadora de Impuestos para Vehículos es una aplicación de escritorio desarrollada en Java que permite a los usuarios calcular el valor de los impuestos de sus vehículos.
 
-La aplicación implementa el patrón de diseño Modelo-Vista-Controlador (MVC) para mantener una estructura organizada y modular del código, facilitando su mantenimiento y escalabilidad.
+La aplicación implementa el patrón de diseño Modelo-Vista-Controlador (MVC) para mantener una estructura organizada y modular del código.
 
 # Características
 
